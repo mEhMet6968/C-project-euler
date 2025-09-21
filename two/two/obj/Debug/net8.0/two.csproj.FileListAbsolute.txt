@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\two\two\bin\Debug\net8.0\two.exe
+C:\Users\mehme\Desktop\two\two\bin\Debug\net8.0\two.deps.json
+C:\Users\mehme\Desktop\two\two\bin\Debug\net8.0\two.runtimeconfig.json
+C:\Users\mehme\Desktop\two\two\bin\Debug\net8.0\two.dll
+C:\Users\mehme\Desktop\two\two\bin\Debug\net8.0\two.pdb
+C:\Users\mehme\Desktop\two\two\obj\Debug\net8.0\two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\two\two\obj\Debug\net8.0\two.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\two\two\obj\Debug\net8.0\two.AssemblyInfo.cs
+C:\Users\mehme\Desktop\two\two\obj\Debug\net8.0\two.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\two\two\obj\Debug\net8.0\two.dll
+C:\Users\mehme\Desktop\two\two\obj\Debug\net8.0\refint\two.dll
+C:\Users\mehme\Desktop\two\two\obj\Debug\net8.0\two.pdb
+C:\Users\mehme\Desktop\two\two\obj\Debug\net8.0\two.genruntimeconfig.cache
+C:\Users\mehme\Desktop\two\two\obj\Debug\net8.0\ref\two.dll
