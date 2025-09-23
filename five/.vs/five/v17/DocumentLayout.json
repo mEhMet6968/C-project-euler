@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\five\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40F421C0-5940-4ED7-9A14-575B20DC2BF9}|five\\five.csproj|c:\\users\\mehme\\desktop\\five\\five\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F421C0-5940-4ED7-9A14-575B20DC2BF9}|five\\five.csproj|solutionrelative:five\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\five\\five\\Program.cs",
+              "RelativeDocumentMoniker": "five\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\five\\five\\Program.cs",
+              "RelativeToolTip": "five\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:40:23.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\five\five\bin\Debug\net8.0\five.exe
+C:\Users\mehme\Desktop\five\five\bin\Debug\net8.0\five.deps.json
+C:\Users\mehme\Desktop\five\five\bin\Debug\net8.0\five.runtimeconfig.json
+C:\Users\mehme\Desktop\five\five\bin\Debug\net8.0\five.dll
+C:\Users\mehme\Desktop\five\five\bin\Debug\net8.0\five.pdb
+C:\Users\mehme\Desktop\five\five\obj\Debug\net8.0\five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\five\five\obj\Debug\net8.0\five.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\five\five\obj\Debug\net8.0\five.AssemblyInfo.cs
+C:\Users\mehme\Desktop\five\five\obj\Debug\net8.0\five.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\five\five\obj\Debug\net8.0\five.dll
+C:\Users\mehme\Desktop\five\five\obj\Debug\net8.0\refint\five.dll
+C:\Users\mehme\Desktop\five\five\obj\Debug\net8.0\five.pdb
+C:\Users\mehme\Desktop\five\five\obj\Debug\net8.0\five.genruntimeconfig.cache
+C:\Users\mehme\Desktop\five\five\obj\Debug\net8.0\ref\five.dll
