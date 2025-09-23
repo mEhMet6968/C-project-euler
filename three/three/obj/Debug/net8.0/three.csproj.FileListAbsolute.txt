@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\three\three\bin\Debug\net8.0\three.exe
+C:\Users\mehme\Desktop\three\three\bin\Debug\net8.0\three.deps.json
+C:\Users\mehme\Desktop\three\three\bin\Debug\net8.0\three.runtimeconfig.json
+C:\Users\mehme\Desktop\three\three\bin\Debug\net8.0\three.dll
+C:\Users\mehme\Desktop\three\three\bin\Debug\net8.0\three.pdb
+C:\Users\mehme\Desktop\three\three\obj\Debug\net8.0\three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\three\three\obj\Debug\net8.0\three.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\three\three\obj\Debug\net8.0\three.AssemblyInfo.cs
+C:\Users\mehme\Desktop\three\three\obj\Debug\net8.0\three.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\three\three\obj\Debug\net8.0\three.dll
+C:\Users\mehme\Desktop\three\three\obj\Debug\net8.0\refint\three.dll
+C:\Users\mehme\Desktop\three\three\obj\Debug\net8.0\three.pdb
+C:\Users\mehme\Desktop\three\three\obj\Debug\net8.0\three.genruntimeconfig.cache
+C:\Users\mehme\Desktop\three\three\obj\Debug\net8.0\ref\three.dll
