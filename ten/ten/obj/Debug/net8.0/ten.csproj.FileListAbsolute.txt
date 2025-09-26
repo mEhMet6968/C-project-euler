@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\ten\ten\bin\Debug\net8.0\ten.exe
+C:\Users\mehme\Desktop\ten\ten\bin\Debug\net8.0\ten.deps.json
+C:\Users\mehme\Desktop\ten\ten\bin\Debug\net8.0\ten.runtimeconfig.json
+C:\Users\mehme\Desktop\ten\ten\bin\Debug\net8.0\ten.dll
+C:\Users\mehme\Desktop\ten\ten\bin\Debug\net8.0\ten.pdb
+C:\Users\mehme\Desktop\ten\ten\obj\Debug\net8.0\ten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\ten\ten\obj\Debug\net8.0\ten.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\ten\ten\obj\Debug\net8.0\ten.AssemblyInfo.cs
+C:\Users\mehme\Desktop\ten\ten\obj\Debug\net8.0\ten.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\ten\ten\obj\Debug\net8.0\ten.dll
+C:\Users\mehme\Desktop\ten\ten\obj\Debug\net8.0\refint\ten.dll
+C:\Users\mehme\Desktop\ten\ten\obj\Debug\net8.0\ten.pdb
+C:\Users\mehme\Desktop\ten\ten\obj\Debug\net8.0\ten.genruntimeconfig.cache
+C:\Users\mehme\Desktop\ten\ten\obj\Debug\net8.0\ref\ten.dll
