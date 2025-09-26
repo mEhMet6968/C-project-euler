@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\eleven\eleven\obj\Debug\net8.0\eleven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\eleven\eleven\obj\Debug\net8.0\eleven.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\eleven\eleven\obj\Debug\net8.0\eleven.AssemblyInfo.cs
+C:\Users\mehme\Desktop\eleven\eleven\obj\Debug\net8.0\eleven.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\eleven\eleven\bin\Debug\net8.0\eleven.exe
+C:\Users\mehme\Desktop\eleven\eleven\bin\Debug\net8.0\eleven.deps.json
+C:\Users\mehme\Desktop\eleven\eleven\bin\Debug\net8.0\eleven.runtimeconfig.json
+C:\Users\mehme\Desktop\eleven\eleven\bin\Debug\net8.0\eleven.dll
+C:\Users\mehme\Desktop\eleven\eleven\bin\Debug\net8.0\eleven.pdb
+C:\Users\mehme\Desktop\eleven\eleven\obj\Debug\net8.0\eleven.dll
+C:\Users\mehme\Desktop\eleven\eleven\obj\Debug\net8.0\refint\eleven.dll
+C:\Users\mehme\Desktop\eleven\eleven\obj\Debug\net8.0\eleven.pdb
+C:\Users\mehme\Desktop\eleven\eleven\obj\Debug\net8.0\eleven.genruntimeconfig.cache
+C:\Users\mehme\Desktop\eleven\eleven\obj\Debug\net8.0\ref\eleven.dll
