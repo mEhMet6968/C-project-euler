@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\nineteen\nineteen\bin\Debug\net8.0\nineteen.exe
+C:\Users\mehme\Desktop\nineteen\nineteen\bin\Debug\net8.0\nineteen.deps.json
+C:\Users\mehme\Desktop\nineteen\nineteen\bin\Debug\net8.0\nineteen.runtimeconfig.json
+C:\Users\mehme\Desktop\nineteen\nineteen\bin\Debug\net8.0\nineteen.dll
+C:\Users\mehme\Desktop\nineteen\nineteen\bin\Debug\net8.0\nineteen.pdb
+C:\Users\mehme\Desktop\nineteen\nineteen\obj\Debug\net8.0\nineteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\nineteen\nineteen\obj\Debug\net8.0\nineteen.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\nineteen\nineteen\obj\Debug\net8.0\nineteen.AssemblyInfo.cs
+C:\Users\mehme\Desktop\nineteen\nineteen\obj\Debug\net8.0\nineteen.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\nineteen\nineteen\obj\Debug\net8.0\nineteen.dll
+C:\Users\mehme\Desktop\nineteen\nineteen\obj\Debug\net8.0\refint\nineteen.dll
+C:\Users\mehme\Desktop\nineteen\nineteen\obj\Debug\net8.0\nineteen.pdb
+C:\Users\mehme\Desktop\nineteen\nineteen\obj\Debug\net8.0\nineteen.genruntimeconfig.cache
+C:\Users\mehme\Desktop\nineteen\nineteen\obj\Debug\net8.0\ref\nineteen.dll
