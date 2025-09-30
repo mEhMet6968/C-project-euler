@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\eighteen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3EA0C1-347D-44EF-BE80-9F398CA7EC03}|eighteen\\eighteen.csproj|c:\\users\\mehme\\desktop\\eighteen\\eighteen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3EA0C1-347D-44EF-BE80-9F398CA7EC03}|eighteen\\eighteen.csproj|solutionrelative:eighteen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\eighteen\\eighteen\\Program.cs",
+              "RelativeDocumentMoniker": "eighteen\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\eighteen\\eighteen\\Program.cs",
+              "RelativeToolTip": "eighteen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:36:45.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
