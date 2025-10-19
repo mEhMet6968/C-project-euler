@@ -12,3 +12,18 @@ C:\Users\mehme\Desktop\telegram deneme\twohundredfive\twohundredfive\obj\Debug\n
 C:\Users\mehme\Desktop\telegram deneme\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.pdb
 C:\Users\mehme\Desktop\telegram deneme\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.genruntimeconfig.cache
 C:\Users\mehme\Desktop\telegram deneme\twohundredfive\twohundredfive\obj\Debug\net8.0\ref\twohundredfive.dll
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\bin\Debug\net8.0\twohundredfive.exe
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\bin\Debug\net8.0\twohundredfive.deps.json
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\bin\Debug\net8.0\twohundredfive.runtimeconfig.json
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\bin\Debug\net8.0\twohundredfive.dll
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\bin\Debug\net8.0\twohundredfive.pdb
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.AssemblyInfoInputs.cache
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.AssemblyInfo.cs
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.sourcelink.json
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.dll
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\refint\twohundredfive.dll
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.pdb
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\twohundredfive.genruntimeconfig.cache
+C:\Users\mehme\Documents\GitHub\C--project-euler\twohundredfive\twohundredfive\obj\Debug\net8.0\ref\twohundredfive.dll

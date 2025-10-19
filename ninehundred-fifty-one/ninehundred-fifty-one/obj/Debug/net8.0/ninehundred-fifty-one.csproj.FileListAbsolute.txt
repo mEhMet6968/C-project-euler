@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\bin\Debug\net8.0\ninehundred-fifty-one.exe
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\bin\Debug\net8.0\ninehundred-fifty-one.deps.json
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\bin\Debug\net8.0\ninehundred-fifty-one.runtimeconfig.json
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\bin\Debug\net8.0\ninehundred-fifty-one.dll
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\bin\Debug\net8.0\ninehundred-fifty-one.pdb
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\obj\Debug\net8.0\ninehundred-fifty-one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\obj\Debug\net8.0\ninehundred-fifty-one.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\obj\Debug\net8.0\ninehundred-fifty-one.AssemblyInfo.cs
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\obj\Debug\net8.0\ninehundred-fifty-one.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\obj\Debug\net8.0\ninehundred-fifty-one.dll
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\obj\Debug\net8.0\refint\ninehundred-fifty-one.dll
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\obj\Debug\net8.0\ninehundred-fifty-one.pdb
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\obj\Debug\net8.0\ninehundred-fifty-one.genruntimeconfig.cache
+C:\Users\mehme\Desktop\telegram deneme\ninehundred-fifty-one\ninehundred-fifty-one\obj\Debug\net8.0\ref\ninehundred-fifty-one.dll

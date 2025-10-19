@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehme\\Desktop\\telegram deneme\\twohundredfive\\twohundredfive\\twohundredfive.csproj": {}
+    "C:\\Users\\mehme\\Documents\\GitHub\\C--project-euler\\twohundredfive\\twohundredfive\\twohundredfive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehme\\Desktop\\telegram deneme\\twohundredfive\\twohundredfive\\twohundredfive.csproj": {
+    "C:\\Users\\mehme\\Documents\\GitHub\\C--project-euler\\twohundredfive\\twohundredfive\\twohundredfive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehme\\Desktop\\telegram deneme\\twohundredfive\\twohundredfive\\twohundredfive.csproj",
+        "projectUniqueName": "C:\\Users\\mehme\\Documents\\GitHub\\C--project-euler\\twohundredfive\\twohundredfive\\twohundredfive.csproj",
         "projectName": "twohundredfive",
-        "projectPath": "C:\\Users\\mehme\\Desktop\\telegram deneme\\twohundredfive\\twohundredfive\\twohundredfive.csproj",
+        "projectPath": "C:\\Users\\mehme\\Documents\\GitHub\\C--project-euler\\twohundredfive\\twohundredfive\\twohundredfive.csproj",
         "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehme\\Desktop\\telegram deneme\\twohundredfive\\twohundredfive\\obj\\",
+        "outputPath": "C:\\Users\\mehme\\Documents\\GitHub\\C--project-euler\\twohundredfive\\twohundredfive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
